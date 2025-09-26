@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Gunasagar-Akkabathula/Counter-React.git/static/css/main.e6c13ad2.css",
-    "main.js": "/Gunasagar-Akkabathula/Counter-React.git/static/js/main.20e46e2a.js",
-    "index.html": "/Gunasagar-Akkabathula/Counter-React.git/index.html",
-    "main.e6c13ad2.css.map": "/Gunasagar-Akkabathula/Counter-React.git/static/css/main.e6c13ad2.css.map",
-    "main.20e46e2a.js.map": "/Gunasagar-Akkabathula/Counter-React.git/static/js/main.20e46e2a.js.map"
+    "main.css": "/Counter-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Counter-React/static/js/main.20e46e2a.js",
+    "index.html": "/Counter-React/index.html",
+    "main.e6c13ad2.css.map": "/Counter-React/static/css/main.e6c13ad2.css.map",
+    "main.20e46e2a.js.map": "/Counter-React/static/js/main.20e46e2a.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
